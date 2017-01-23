@@ -2,6 +2,8 @@
 
 Edit these files to create the HTML/CSS for a page of your app. Don't worry about making it mobile responsive just yet.
 
+[View these files in browser](http://itp.nyu.edu/~ceh274/dwdmobile/week1/)
+
 To turn in an assignment:
 
 * [**Fork**](https://guides.github.com/activities/forking/) this branch (this create a personal copy of the assignment that's associated with your github username)
